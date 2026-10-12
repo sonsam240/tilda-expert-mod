@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tilda Zero Block Expert"
+  short_description: "Zero Block, адаптив, Autoscale и интеграции"
+  default_prompt: "Используй $tilda-zero-block-expert для анализа и реализации задачи в Tilda Zero Block."
